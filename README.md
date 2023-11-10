@@ -51,7 +51,7 @@ The project appears to be a duplicate question pair detection system using a mac
 ### How to Run the Code:
 1. Ensure you have all the required libraries installed. You can use `pip install -r requirements.txt` if you have a requirements file.
 2. Load the trained model (`model.pkl`) and the CountVectorizer (`cv.pkl`) used for transforming text into numerical features.
-3. Run the Streamlit application by executing the script "streamlit run app.py
+3. Run the Streamlit application by executing the script 'streamlit run app.py'
 
 ### Suggestions:
 - Ensure that all dependencies are installed and compatible with the provided code.
